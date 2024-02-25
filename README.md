@@ -20,4 +20,5 @@ chmod +x aitu.sh
 ```
 
 ## 👀 Demo
-*coming soon...*
+
+[![asciicast](https://asciinema.org/a/642853.svg)](https://asciinema.org/a/642853)
